@@ -29,7 +29,7 @@ MAE is the average difference between my predicted price and the real price, in 
 
 The error went down by about 37%. The cross-validation number is the more reliable one. The validation number for XGBoost is a little too good, because early stopping used the same validation data to pick the number of trees.
 
-**Kaggle score:** 14,281.63 (this is the MAE on the competition's test data). I was in 313th place when I submitted.
+**Kaggle score:** 14,281.63 (this is the MAE on the competition's test data). I was in 313th of 3866 place when I submitted.
 
 ## What I learned
 
